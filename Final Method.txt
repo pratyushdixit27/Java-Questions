@@ -1,0 +1,21 @@
+//Final Method: To prevent method overriding
+
+public class FinalMethodCheck {
+
+    final void method1()     // Method declared Final
+        {
+            System.out.println("I am in method 1");
+        }
+    }
+    class Maukk extends FinalMethodCheck{
+        void fun(){
+            System.out.println("I am in method 2");
+        }
+        public static void main(String[]args){
+            FinalMethodCheck e = new FinalMethodCheck();
+            e.method1();
+
+            Maukk m = new Maukk();
+            m.fun();
+        }
+    }

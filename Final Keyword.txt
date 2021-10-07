@@ -1,0 +1,11 @@
+//Final Keyword
+class Test{
+public static void main(String[]args){
+final int a = 10;
+int b= 20;
+int c;
+b=a+20;
+//a=b+10; This will give error since a is final
+System.out.println(b);
+}
+}

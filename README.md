@@ -11,6 +11,6 @@ Final Methods: To prevent method overriding
 
 Final Variable: To declare a variable as constant
 
-This Keyword: Helps in printing the instance variable of present class
+This Keyword: Refers the instance variable or methods of present class
 
-Super Keyword: Helps in printing the instance variable of parent class
+Super Keyword: Refers in instance variable or method of parent class

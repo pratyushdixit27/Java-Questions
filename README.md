@@ -14,3 +14,5 @@ Final Variable: To declare a variable as constant
 This Keyword: Refers the instance variable or methods of present class
 
 Super Keyword: Refers in instance variable or method of parent class
+
+Daemon Thread: Thread which runs in the background are called as Daemon Threads. They provide services to Thread 

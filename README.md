@@ -21,6 +21,7 @@ Process: A program in executing state is called process. It is Heavy weight. Con
 
 Thread: It is a sub part of program. It is light weight. Context Switching time is less. It takes less time for communication. It has same address space. They may require synchronization. They are dependent from each other.
 
+Thread Creation: 1)By Extending Thread Class. 2)By Implementing Runnable Interface
 
 
 

@@ -1,4 +1,4 @@
-# Java-Questions
+# Tips
 List of Java Programming Questions for Beginners.
 
 Theory Questions->
@@ -26,3 +26,5 @@ Thread Creation: 1)By Extending Thread Class. 2)By Implementing Runnable Interfa
 
 
 Daemon Thread: Thread which runs in the background are called as Daemon Threads. They provide services to the Thread. 
+
+Recursion: When we call same a function inside a function. It is called as recursive Function. Recursion is done by two steps: 1) Base Condition 2) Making Relation
